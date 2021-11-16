@@ -1,6 +1,6 @@
 ### Hi there, I'm Thomas - aka [RaspyThommy][website] 👋
 
-[![Website](https://img.shields.io/website?label=raspythommy.altervista.org&style=for-the-badge&url=https%3A%2F%2Fraspythommy.altervista.org)](https://raspythommy.altervista.org)
+[![Website](https://img.shields.io/website?label=craftmi.altervista.org&style=for-the-badge&url=https%3A%2F%2Fcraftmi.altervista.org)](https://craftmi.altervista.org)
 
 ## I'm a Computer Science Student and a Developer!!
 
@@ -9,7 +9,7 @@
 - 🔭 My interests are: Robots, 3D Printing, Smart Home, High Tech, and much more...
 ### Connect with me:
 
-[<img align="left" alt="https://raspythommy.altervista.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://craftmi.altervista.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -29,4 +29,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[website]: https://raspythommy.altervista.org
+[website]: https://craftmi.altervista.org
